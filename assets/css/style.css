@@ -23,8 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/* these are the styles for the navigation*/
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -49,6 +49,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* this is the main image*/
 
 .hero {
     height: 800px;
@@ -64,6 +66,7 @@ p {
     margin-right: 25px;
 }
 
+/* this is where the styles are for the aside part*/
 .float-right {
     float: right;
     margin-left: 25px;
