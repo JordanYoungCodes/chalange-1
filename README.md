@@ -6,7 +6,7 @@ Readme file for Class project for week 1
 
 -Also changed some CSS atributes to make the site more appealing to the eye.
 
--The original website is for advertising availiable services for making a more positive web presence, specifically web search optimazation, fixing online web reputation, and Social Meda presence.
+-The original website is for advertising availiable services for making a more positive web presence, specifically search engine optimazation, fixing online web reputation, and Social Meda presence.
 
 -The hope is to work on making these services better and working to create new services to make the online presence of our customers the best it can be.
 
