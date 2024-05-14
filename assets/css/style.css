@@ -137,7 +137,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* this formats the seo section, changed border color to green */
 .search-engine-optimization {
     margin-bottom: 25px;
     padding: 50px;
@@ -147,7 +147,7 @@ p {
     color: #ffffff;
     border: 5px solid rgb(4, 150, 69);
 }
-
+/*this code formats the reputation section, changed a few colors*/
 .online-reputation-management {
     margin-bottom: 25px;
     padding: 50px;
@@ -157,7 +157,7 @@ p {
     color: #ffffff;
     border: 5px solid rgb(180, 199, 5);
 }
-
+/*this code formats the social media maketing class which includes the section that it is in*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -194,7 +194,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*this is the code that formats the footer*/
 .footer {
     padding: 30px;
     clear: both;
