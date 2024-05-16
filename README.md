@@ -16,7 +16,7 @@
 
 -No special installation necessary, just a modern web browser.
 
--Go to the URL: www.https://jordanyoungcodes.github.io/chalange-1/
+-Go to the URL: [www.https://jordanyoungcodes.github.io/chalange-1/](https://jordanyoungcodes.github.io/chalange-1/)
 
 -GitHub: https://github.com/JordanYoungCodes/chalange-1/
 
