@@ -1,4 +1,6 @@
-Readme file for Class project for week 1
+# Readme file for Class project for week 1
+
+-This is a site that has reasources to make your online presence better.
 
 -The main goal of this project is to update an existing site so it follows a logical order and folows semantic html.
 
@@ -10,7 +12,7 @@ Readme file for Class project for week 1
 
 -The hope is to work on making these services better and working to create new services to make the online presence of our customers the best it can be.
 
-Installation of Software:
+## Installation of Software:
 
 -No special installation necessary, just a modern web browser.
 
@@ -18,6 +20,15 @@ Installation of Software:
 
 -GitHub: https://github.com/JordanYoungCodes/chalange-1/
 
-Using The Site
+## Using The Site
 
 -The site is easy to navigate, click on the navigation and get the informaition you are looking for.
+
+## Contributing
+
+-This site was provided by the instructors and course creators.
+
+## License
+
+-MIT
+
