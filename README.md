@@ -1,23 +1,43 @@
-Readme file for Class project for week 1
+# html and css update to convert to semantic element structure
 
--The main goal of this project is to update an existing site so it follows a logical order and folows semantic html.
+## A Twisted Repo Productions
 
--The code is edited to follow accesability rules and increase readability for screen readers.
+# Introduction
 
--Also changed some CSS atributes to make the site more appealing to the eye.
+- The goal of this project is to update an existing webpage so that it follows a logical order and uses semantic html elements.
 
--The original website is for advertising availiable services for making a more positive web presence, specifically search engine optimazation, fixing online web reputation, and Social Meda presence.
+- The code has been eddited to follow accessability rules and have better readability for screen readers.
 
--The hope is to work on making these services better and working to create new services to make the online presence of our customers the best it can be.
+- Also changed some CSS atributes to make the site more appealing to the eye and responsive to different screens.
 
-Installation of Software:
+## Table Of Contents
 
--No special installation necessary, just a modern web browser.
+- [Installation](#installation)
+- [usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
--Go to the URL: www.https://jordanyoungcodes.github.io/chalange-1/
+## Installation
 
--GitHub: https://github.com/JordanYoungCodes/chalange-1/
+- No special installation necessary, just a modern web browser.
 
-Using The Site
+## Usage
+- No special usage instructions, navigate to the website.
 
--The site is easy to navigate, click on the navigation and get the informaition you are looking for.
+## Credits
+- The webswite was designed by sombody else for demonstration.
+
+## License
+- MIT license.
+
+## Screenshot
+
+![alt text](image.png)
+
+# Links
+- Deployed at: https://jordanyoungcodes.github.io/chalange-1/
+
+- GitHub: https://github.com/JordanYoungCodes/chalange-1/
+
+- Email: jordansyoung@gmail.com
+
